@@ -5,6 +5,7 @@ Halaman Utama
 ![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/HalamanUtama3.JPG)
 ![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/HalamanUtama4.JPG)
 ![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/HalamanUtama5.JPG)
+![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/HalamanUtama6.JPG)
 ![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/HalamanUtama7.JPG)
 Form Pendaftaran Bila Gagal Tambah Data
 ![alt text](https://github.com/DemsiRakhi/WebDesign-Competition/blob/master/TugasAkhir/FormPendaftaran1.JPG)
